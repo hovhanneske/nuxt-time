@@ -12,9 +12,6 @@
       hour-cycle="h24"
       locale="en-US"
     />
-
-    <NuxtTime :datetime="'2025-05-16'" locale="hy-AM" year="numeric" month="long" day="numeric" />
-
   </div>
 </template>
 
